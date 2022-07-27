@@ -1,0 +1,16 @@
+[
+{
+  "modid": "netherupdate",
+  "name": "Nether Update Mod",
+  "description": "Nether Update mod for older versions than 1.16.*",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/mrlulu51/NetherUpdateMod",
+  "updateUrl": "",
+  "authorList": ["mrlulu51"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
